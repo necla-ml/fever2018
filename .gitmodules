@@ -1,0 +1,6 @@
+[submodule "finetune-transformer-lm"]
+	path = finetune-transformer-lm
+	url = https://github.com/cdmalon/finetune-transformer-lm
+[submodule "fever2018-retrieval"]
+	path = fever2018-retrieval
+	url = https://github.com/cdmalon/fever2018-retrieval
