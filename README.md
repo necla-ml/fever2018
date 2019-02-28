@@ -9,6 +9,7 @@ This is the [NEC Labs America](http://www.nec-labs.com) Team Papelo [FEVER 2018 
   booktitle={Proceedings of the EMNLP First Workshop on Fact Extraction and Verification},
   year={2018}
 }
+```
 
 # Preparing the software
 
