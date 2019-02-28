@@ -1,0 +1,17 @@
+numpy
+scipy
+scikit-learn
+typing
+overrides
+tqdm
+nltk
+allennlp==0.2.3
+pytz
+tensorboard-pytorch
+git+git://github.com/j6mes/drqa@parallel
+git+git://github.com/sheffieldnlp/fever-scorer@master
+tensorflow-gpu==1.4.1
+spacy
+joblib
+pandas
+ftfy
